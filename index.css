@@ -126,3 +126,7 @@ h1, h2, h3 {
   .botao:hover {
     background: var(--caixa-agua);
   }
+
+  .cartaz-lateral {
+    aling-items: flex-start;
+  }
